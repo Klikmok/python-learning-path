@@ -1,0 +1,33 @@
+[submodule "projects/django-sprint1"]
+	path = projects/django-sprint1
+	url = https://github.com/Klikmok/django_sprint1.git
+[submodule "projects/anfisa-bot"]
+	path = projects/anfisa-bot
+	url = https://github.com/Klikmok/anfisa2sprint.git
+[submodule "projects/homework-bot"]
+	path = projects/homework-bot
+	url = https://github.com/Klikmok/homework_bot.git
+[submodule "projects/django-sprint3"]
+	path = projects/django-sprint3
+	url = https://github.com/Klikmok/django_sprint3.git
+[submodule "projects/django-sprint4"]
+	path = projects/django-sprint4
+	url = https://github.com/Klikmok/django_sprint4.git
+[submodule "projects/infra_sprint1"]
+	path = projects/infra_sprint1
+	url = https://github.com/Klikmok/infra_sprint1.git
+[submodule "projects/taski"]
+	path = projects/taski
+	url = https://github.com/Klikmok/taski.git
+[submodule "projects/api_final_yatube"]
+	path = projects/api_final_yatube
+	url = https://github.com/Klikmok/api_final_yatube.git
+[submodule "projects/django_testing"]
+	path = projects/django_testing
+	url = https://github.com/Klikmok/django_testing.git
+[submodule "projects/hw_python_oop"]
+	path = projects/hw_python_oop
+	url = https://github.com/Klikmok/hw_python_oop.git
+[submodule "projects/character_creation_module"]
+	path = projects/character_creation_module
+	url = https://github.com/Klikmok/character_creation_module.git
