@@ -16,9 +16,6 @@
 [submodule "projects/infra_sprint1"]
 	path = projects/infra_sprint1
 	url = https://github.com/Klikmok/infra_sprint1.git
-[submodule "projects/taski"]
-	path = projects/taski
-	url = https://github.com/Klikmok/taski.git
 [submodule "projects/api_final_yatube"]
 	path = projects/api_final_yatube
 	url = https://github.com/Klikmok/api_final_yatube.git
@@ -31,3 +28,6 @@
 [submodule "projects/character_creation_module"]
 	path = projects/character_creation_module
 	url = https://github.com/Klikmok/character_creation_module.git
+[submodule "projects/taski-docker"]
+	path = projects/taski-docker
+	url = https://github.com/Klikmok/taski-docker.git

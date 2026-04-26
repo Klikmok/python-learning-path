@@ -42,7 +42,7 @@
 | Проект | Что реализовано | Технологии |
 |--------|----------------|------------|
 | [`infra_sprint1`](./projects/infra_sprint1) | CI/CD, Docker, деплой | Docker, GitHub Actions, Nginx |
-| [`taski`](./projects/taski) | Приложение для задач с Docker | Django, Docker, Docker Compose |
+| [`taski-docker`](./projects/taski-docker) | Приложение для задач с Docker | Django, Docker, Docker Compose |
 
 ---
 
